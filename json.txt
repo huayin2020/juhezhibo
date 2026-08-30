@@ -1,6 +1,6 @@
 {
 "pingtai": [
-{ "address":"jsonweishizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"36","title":"\u536B\u89C6\u76F4\u64AD"},
+{ "address":"jsonweishizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"16","title":"\u536B\u89C6\u76F4\u64AD"},
 { "address":"http://api.vipmisss.com:81/mf/jsonkawayi.txt","xinimg":"http://cdn.gcufbd.top/img/kawayi.jpg","Number":"132","title":"\u5361\u54C7\u4F0A"},
 { "address":"http://api.vipmisss.com:81/mf/jsonmihu.txt","xinimg":"http://cdn.gcufbd.top/img/mihu.jpg","Number":"129","title":"\u54AA\u72D0"},
 { "address":"http://api.vipmisss.com:81/mf/jsonhuahudie.txt","xinimg":"http://cdn.gcufbd.top/img/huahudie.jpg","Number":"135","title":"\u82B1\u8774\u8776"},
