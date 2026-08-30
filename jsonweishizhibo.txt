@@ -15,5 +15,7 @@
 { "address":"http://112.30.73.119:229/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0","img":"http://cdn.gcufbd.top/img/13.jpg","title":"CCTV13\u65B0\u95FB"},
 { "address":"http://112.30.73.119:229/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0","img":"http://cdn.gcufbd.top/img/14.jpg","title":"CCTV14\u5C11\u513F"},
 { "address":"http://112.30.73.119:229/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0","img":"http://cdn.gcufbd.top/img/15.jpg","title":"CCTV15\u5C11\u513F"},
+{ "address":"http://218.86.142.177:9527/udp/238.255.2.216:5999","img":"http://cdn.gcufbd.top/img/15.jpg","title":"瓮安电视台\u5C11\u513F"},
+
 ]
 }
