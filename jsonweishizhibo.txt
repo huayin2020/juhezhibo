@@ -15,7 +15,14 @@
 { "address":"http://112.30.73.119:229/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0","img":"http://cdn.gcufbd.top/img/13.jpg","title":"CCTV13\u65B0\u95FB"},
 { "address":"http://112.30.73.119:229/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0","img":"http://cdn.gcufbd.top/img/14.jpg","title":"CCTV14\u5C11\u513F"},
 { "address":"http://112.30.73.119:229/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0","img":"http://cdn.gcufbd.top/img/15.jpg","title":"CCTV15"},
-{ "address":"https://gzstv.550858.xyz/ch01.m3u8","img":"https://baike.baidu.com/pic/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86/8027212/1/42166d224f4a20a446238b0a0f048f22720e0df37afd?fromModule=lemma_top-image&ct=single#aid=1&pic=42166d224f4a20a446238b0a0f048f22720e0df37afd","title":"贵州卫视"},
-
+{ "address":"https://gzstv.550858.xyz/ch01.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"贵州卫视"},
+{ "address":"https://gzstv.550858.xyz/ch02.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"贵州公共"},
+{ "address":"https://gzstv.550858.xyz/ch03.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"贵州影视文艺"},
+{ "address":"https://gzstv.550858.xyz/ch04.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"贵州大众生活"},
+{ "address":"https://gzstv.550858.xyz/ch05.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"贵州生态乡村"},
+{ "address":"https://gzstv.550858.xyz/ch06.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"贵州科教健康"},
+{ "address":"https://gzstv.550858.xyz/ch09.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"贵州经济"},
+{ "address":"https://gzstv.550858.xyz/ch10.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"家有购物"},
+{ "address":"https://gzstv.550858.xyz/ch13.m3u8","img":"http://cdn.gcufbd.top/img/15.jpg","title":"贵州移动电视"},
 ]
 }
