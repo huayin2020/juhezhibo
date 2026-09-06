@@ -1,7 +1,7 @@
 {
 "zhubo": [
 { "address":"https://gzstv.550858.xyz/ch01.m3u8","img":"https://q0.itc.cn/q_70/images03/20250126/d487f8b203bb40fc98ed87fb771872d5.png","title":"贵州卫视"},
-"address":"https://zjtv.550858.xyz/channel101.m3u8","img":"https://b0.bdstatic.com/ugc/FF9ZzHn6v_3rj1rjJelJrA6aa4794639f6ce053dcaf599ee7f26f0.jpg@h_1280","title":"浙江卫视"},
+"address":"https://zjtv.550858.xyz/channel101.m3u8","img":"https://b0.bdstatic.com/ugc/FF9ZzHn6v_3rj1rjJelJrA6aa4794639f6ce053dcaf599ee7f26f0.jpg","title":"浙江卫视"},
 
 ]
 }
