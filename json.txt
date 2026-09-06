@@ -1,5 +1,7 @@
 {
 "pingtai": [
-{ "address":"jsonweishizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"16","title":"\u536B\u89C6\u76F4\u64AD"},
+{ "address":"jsonyangshizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"16","title":"\u536B\u89C6\u76F4\u64AD"},
+{ "address":"jsonweishizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"16","title":"\u536B\u89C6\u76F4\u64AD"},
+{ "address":"jsondifangzhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"16","title":"\u536B\u89C6\u76F4\u64AD"},
 ]
 }
