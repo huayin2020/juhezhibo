@@ -1,6 +1,6 @@
 {
 "pingtai": [
-{ "address":"jsonyangshizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"16","title":"\u536B\u89C6\u76F4\u64AD"},
+{ "address":"jsonyangshizhibo.txt","xinimg":"https://i.imgs.ovh/2026/09/06/e04a9c7b9e68f8283343a006919f41da.png","Number":"15","title":"中央电视台"},
 { "address":"jsonweishizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"16","title":"\u536B\u89C6\u76F4\u64AD"},
 { "address":"jsondifangzhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"16","title":"\u536B\u89C6\u76F4\u64AD"},
 ]
